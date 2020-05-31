@@ -1,0 +1,3 @@
+[submodule "SUMO-TraCi-TLS"]
+	path = SUMO-TraCi-TLS
+	url = https://github.com/YonoHub/SUMO-TraCi-TLS.git

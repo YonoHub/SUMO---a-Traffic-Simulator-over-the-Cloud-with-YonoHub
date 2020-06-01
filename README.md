@@ -1,9 +1,7 @@
 
 # SUMO — a Traffic Simulator over the Cloud with Yonohub
 
-![SUMO](https://miro.medium.com/max/700/1*RLi4jgINeNszuFafJ-vnpQ.png)*Simulation of Urban Mobility — SUMO*
-
-Simulation of Urban Mobility — SUMO
+![SUMO](https://miro.medium.com/max/700/1*RLi4jgINeNszuFafJ-vnpQ.png)
 
 Intelligent Transportation System is an essential building block of full autonomy on the roads. To have a safe, sustainable, and efficient autonomous system in our daily life, a complex traffic system should be deployed on our normal roads. Vehicles should communicate with each other as well as with the road to send and receive some information.
 
